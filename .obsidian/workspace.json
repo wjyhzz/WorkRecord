@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "82a543a467606df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d363dd86dd4a93f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4247602aa7313b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/typora激活.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "typora激活"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b41868e0dff76ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f13de90fefd6dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "689d58cf05dc30b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "05925bb1748edffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b23da361f87f1e06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5179a037b8e0614d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eed84313fc289f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e986c405f9e65e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工具/typora激活.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "typora激活 的反向链接列表"
+            }
+          },
+          {
+            "id": "cc6344e3d2f442cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工具/typora激活.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "typora激活 的出链列表"
+            }
+          },
+          {
+            "id": "585d79bb9a80fa77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f2e92ef72c47f9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工具/typora激活.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "typora激活 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "4247602aa7313b0a",
+  "lastOpenFiles": [
+    "工具/assets/image-20250604163658984.webp",
+    "工具/assets/image-20250604163658984-1760668910988-7.webp",
+    "工具/assets/image-20250604162810776.webp",
+    "工具/assets/image-20250604162810776-1760668900856-5.webp",
+    "工具/assets/image-20250604165112617.webp",
+    "工具/assets/image-20250604165112617-1760668892411-3.webp",
+    "工具/assets/image-20250604164828882.webp",
+    "工具/assets/image-20250604164828882-1760668883909-1.webp",
+    "工具/assets",
+    "README.md"
+  ]
+}
