@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "cf6be1e2ef6cb90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e5e94c3c7c8fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b346f0a608edf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPEE/专业课/数据结构.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30f5ace70c8644b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2577ca103a3d69b4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7c0694464fbf613b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d2bd0b31d73bbed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "35b99e53b4ab7a6d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e4cc34f9578ab829",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62f5134ebc51a03c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NPEE/专业课/数据结构.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c30b3cd71293224f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "NPEE/专业课/数据结构.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19269268fe358167",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "NPEE/专业课/数据结构.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "7b346f0a608edf3e",
+  "lastOpenFiles": [
+    "NPEE/专业课/数据结构大题.md",
+    "NPEE/专业课/数据结构.md",
+    "NPEE/专业课/计算机网络.md",
+    "NPEE/专业课/计算机组成原理.md",
+    "NPEE/专业课/哈工程考纲分析.md",
+    "NPEE/专业课/操作系统.md",
+    "Work/630.md",
+    "NPEE/assets/code/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml",
+    "NPEE/assets/code/cmake-build-debug/CMakeFiles/code.dir/Chapter1",
+    "NPEE/assets/计算机组成原理.assets/image-20240604184348520.png",
+    "NPEE/assets/code/cmake-build-debug/CMakeFiles/pkgRedirects",
+    "NPEE/assets/code/cmake-build-debug/CMakeCache.txt",
+    "NPEE/assets/数据结构.assets/image-20240422143842550.png",
+    "NPEE/assets/code/cmake-build-debug/CMakeFiles/TargetDirectories.txt",
+    "NPEE/assets/code/Chapter1/del.cpp",
+    "NPEE/assets/计算机组成原理.assets/image-20240604191115330.png",
+    "NPEE/assets/数据结构.assets/image-20240522131526721.png",
+    "NPEE/assets/数据结构.assets/image-20240422170434797.png",
+    "NPEE/assets/数据结构.assets/image-20240422151700441.png",
+    "NPEE/assets/数据结构.assets/image-20240422175238940.png",
+    "NPEE/assets/数据结构.assets/image-20240422175649929.png",
+    "NPEE/assets/数据结构.assets/image-20240420145039767.png",
+    "NPEE/assets/计算机组成原理.assets/image-20240604183307740.png",
+    "NPEE/assets/code/Chapter0/queueDemo.cpp",
+    "NPEE/assets/code/cmake-build-debug/Testing/Temporary/LastTest.log",
+    "NPEE/assets/code/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake",
+    "NPEE/assets/code/Chapter0/cirQueue.cpp",
+    "NPEE/政治/01.基础.md",
+    "NPEE/readme.md",
+    "Java/Note/学习笔记/框架/MyBatisPlus.md",
+    "Java/Note/学习笔记/MicService/JWT.md",
+    "Java/Note/学习笔记/数据库/新建文件夹/Redis.md",
+    "Java/Note/学习笔记/基础/JavaSE/12.异常.md",
+    "Java/Note/八股文/系统设计/安全/认证授权基础概念.md",
+    "Java/Note/八股文/Java/IO/IO设计模式总结.md",
+    "Java/Note/学习笔记/开发相关/HttpClient.md",
+    "Java/Note/学习笔记/Javaweb/Servlet.md",
+    "Algorithms/代码随想录/problems/算法模板.md",
+    "Algorithms/代码随想录/problems/回溯总结.md",
+    "Java/Note/学习笔记/基础/JavaSE/String.md",
+    "Java/Note/学习笔记/基础/JavaSE/JavaSE.md",
+    "Java/Note/学习笔记/数据库/第06章_索引的数据结构.md",
+    "Algorithms/代码随想录/problems/双指针总结.md",
+    "Algorithms/代码随想录/problems/链表总结篇.md",
+    "Algorithms/代码随想录/problems/哈希表总结.md",
+    "Algorithms/代码随想录/problems/背包总结篇.md"
+  ]
+}

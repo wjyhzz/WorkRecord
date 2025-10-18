@@ -1,1 +1,10 @@
-{}
+{
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Prism",
+  "baseFontSize": 13,
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true,
+  "accentColor": ""
+}

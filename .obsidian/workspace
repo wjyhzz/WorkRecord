@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a357199ee7835416",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09f31b3d4ea1d708",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "NPEE/assets/数据结构.assets/image-20240723141926072.png"
-              }
-            }
+        "id": "e023ea4c313a12fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/MicService/SpringCloud.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -35,9 +32,7 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "state": {}
             }
           },
           {
@@ -62,20 +57,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "91f5821a79fa55f3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 291
   },
   "right": {
     "id": "458c1ead835cd532",
@@ -92,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPEE/assets/数据结构.assets/image-20240723141926072.png",
+                "file": "Note/MicService/SpringCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPEE/assets/数据结构.assets/image-20240723141926072.png"
+                "file": "Note/MicService/SpringCloud.md"
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPEE/assets/数据结构.assets/image-20240723141926072.png",
+                "file": "Note/MicService/SpringCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,58 +153,17 @@
     "direction": "horizontal",
     "width": 327.5
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false
-    }
-  },
   "active": "524ef2cb43946a56",
   "lastOpenFiles": [
-    "NPEE/assets/操作系统.assets",
-    "NPEE/assets/新建文件夹",
-    "NPEE/assets/数据结构.assets/image-20240722131125038.png",
-    "NPEE/assets/数据结构.assets/image-20240705154045767.png",
-    "NPEE/assets/数据结构.assets/image-20240704222346843.png",
-    "NPEE/assets/数据结构.assets/image-20240704203905989.png",
-    "NPEE/assets/计算机网络.assets/image-20240619095736747.png",
-    "NPEE/专业课/计算机组成原理.md",
-    "NPEE/assets/计算机组成原理.assets/image-20240612134054050.png",
-    "NPEE/专业课/计算机网络.md",
-    "NPEE/专业课/哈工程考纲分析.md",
-    "NPEE/专业课/操作系统.md",
-    "NPEE/assets/计算机组成原理.assets/image-20240604170734583.png",
-    "NPEE/assets/数据结构.assets/image-20240420145039767.png",
-    "Algorithms/代码随想录/02.链表/206.翻转链表.md",
-    "NPEE/专业课/数据结构.md",
-    "安装&配置/Visual Studio设置.md",
-    "安装&配置/macbook.md",
-    "安装&配置/idea设置.md",
-    "安装&配置/clion安装以及创建工程.md",
-    "安装&配置/IDEA快捷键.md",
-    "安装&配置/ACM 输入输出.md",
-    "ProgrammingLanguages/assets/安装 JCE.assets/clip_image002.jpg",
-    "安装&配置/assets",
-    "ProgrammingLanguages/assets/macbook.assets/截屏2024-02-24 14.36.45.png",
-    "ProgrammingLanguages/macbook~.md",
-    "ProgrammingLanguages/macbook.assets",
-    "ProgrammingLanguages/${filename}.assets",
-    "安装&配置/assets/macbook.assets",
-    "Work/可能会问的问题.md",
-    "Work/630.md",
-    "Note/学习笔记/数据库/新建文件夹/Redis.md",
-    "Note/学习笔记/框架/SpringBoot.md",
-    "Note/八股文/框架/注释.md",
-    "Note/八股文/Java/常见基础.md",
-    "Note/学习笔记/基础/JavaSE/JavaSE.md",
-    "Note/学习笔记/基础/设计模式.md",
-    "Note/学习笔记/开发相关/Swagger.md",
-    "Note/学习笔记/框架/MyBatisPlus.md",
-    "Note/学习笔记/MicService/RabbitMQ.md",
-    "Note/学习笔记/MicService/SpringCloud.md"
+    "Note/注解.md",
+    "Note/基础/idea设置.md",
+    "Note/基础/idea快捷键.md",
+    "Note/基础/Linux.md",
+    "Note/数据库/MySQL.md",
+    "Note/数据库/Redis.md",
+    "Note/框架/SpringBoot.md",
+    "Note/框架/Spring.md",
+    "Note/框架/MyBatis.md",
+    "Note/MicService/SpringCloud.md"
   ]
 }

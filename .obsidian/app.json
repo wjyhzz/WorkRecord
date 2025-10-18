@@ -1,1 +1,24 @@
-{}
+{
+  "legacyEditor": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./${filename}.assets",
+  "promptDelete": false,
+  "communityThemeSortOrder": "download",
+  "trashOption": "none",
+  "fileSortOrder": "alphabetical",
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [],
+  "readableLineLength": true,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "autoConvertHtml": true,
+  "newFileLocation": "current",
+  "defaultViewMode": "preview"
+}
