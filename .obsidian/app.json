@@ -2,7 +2,7 @@
   "legacyEditor": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./${filename}.assets",
-  "promptDelete": false,
+  "promptDelete": true,
   "communityThemeSortOrder": "download",
   "trashOption": "none",
   "fileSortOrder": "alphabetical",
