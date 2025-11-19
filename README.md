@@ -1,4 +1,8 @@
-https://tgpro.net/
+死斗网站：https://tgpro.net/
+
+https://csgo.moeub.cn/server
+
+https://next.moeub.cn/cs2
 
 
 
