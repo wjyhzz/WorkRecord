@@ -4,6 +4,8 @@ https://csgo.moeub.cn/server
 
 https://next.moeub.cn/cs2
 
+https://www.hltv.org/
+
 
 
 // ====== 基本调试与作弊设置 ======
