@@ -3,11 +3,67 @@
 	<head>
 		<meta charset="utf-8" />
 		<title></title>
+		<style type="text/css">
+			div{background-color: aquamarine;}
+			span{color: red;}
+		</style>
 	</head>
 	<body>
 		<!-- 
 		ctrl + / 注释
 		拓展测试点：前端页面注释，上线前必须检查并删除
 		 -->
+		 <h1>h1</h1>
+		 <h2>h2</h2>
+		 <h3>h3</h3>
+		 <h4>h4</h4>
+		 <h5>h5</h5>
+		 <h6>h6</h6>
+		 
+		<p>
+			这nbsp;是一个段落标签<br />&!!!!!!!!!!!!!!!
+		</p>
+		
+		<p>第二段<a href="http://www.baidu.com" target="_blank">点我去百度</a></p>
+		<img src="./img/pic.png" width="200px" title="鼠标悬浮展示"/>
+		
+		<div>
+			<div>div1</div>
+			<div>div2</div>
+			<div><span>div3</span></div>
+		</div>
+		
+		<p>
+			<!-- 文本输入框 -->
+			<input type="text" name="username" placeholder="请输入用户名">
+			<br />
+			<!-- 密码输入框 -->
+			<input type="password" name="password" placeholder="请输入密码">
+			<br />
+			<!-- 复选框 -->
+			<input type="checkbox" name="remember" value="1" checked> 记住我
+			<br />
+			<!-- 单选按钮组 -->
+			<input type="radio" name="gender" value="male" checked> 男
+			<input type="radio" name="gender" value="female"> 女
+			<br />
+			<!-- 提交和重置按钮 -->
+			<input type="submit" value="登录">
+			<input type="reset" value="重置">
+		</p>
+		
+		<p>
+			<form action="/login" method="post">
+			    <label for="username">用户名:</label>
+			    <input type="text" id="username" name="username" required>
+			    <br>
+			    <label for="password">密码:</label>
+			    <input type="password" id="password" name="password" required>
+			    <br>
+			    <input type="submit" value="登录">
+			</form>
+		</p>
 	</body>
+	
+	
 </html>
