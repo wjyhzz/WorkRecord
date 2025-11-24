@@ -1,6 +1,6 @@
-name = 'xiaoming'
-age = 18
-height = 1.834567
-
-# My name is xiaoming, age 18 , 1.834567m
-print(f"My name is {name}, age {age} , {height}m")
+i = 1
+sum = 0
+while i <= 100:
+    sum += i
+    i += 2
+print(sum)
