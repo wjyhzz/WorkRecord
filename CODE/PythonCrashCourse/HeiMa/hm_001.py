@@ -1,7 +1,8 @@
-# 循环5次
-# range(n)：生成[0,n)之间的整数
-for i in range(5):
-    if i == 3:
-        print("不打印3")
-        continue
-    print(i)
+list1 = ['good', 'good', 'study']
+str1 = ' '.join(list1)
+# good good study
+print(str1)
+
+str2 = ' and '.join(list1)
+# good and good and study
+print(str2)
