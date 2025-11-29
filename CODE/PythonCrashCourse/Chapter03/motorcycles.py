@@ -12,3 +12,9 @@ print(motorcycles)
 # del motorcycles[0]
 # print(motorcycles.pop())
 # print(motorcycles.pop(0))
+
+# print(motorcycles.index('dianji'))
+# print(motorcycles.count('dianji'))
+
+motorcycles.clear()
+print(motorcycles)
