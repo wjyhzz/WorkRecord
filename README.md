@@ -6,6 +6,10 @@ https://next.moeub.cn/cs2
 
 https://www.hltv.org/
 
+https://liquipedia.net/counterstrike/Main_Page
+
+https://www.csinspect.com/custom-stickers
+
 
 
 // ====== 基本调试与作弊设置 ======
